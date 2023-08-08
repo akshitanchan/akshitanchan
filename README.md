@@ -2,7 +2,7 @@
 
 <a href="https://akshit.org"><img align="right" src="assets/akshit-octocat.png" width=200></a>
 
-I'm Akshit Anchan, a second-year university student, studying towards my Bachelor of Technology in Computer Science Engineering. I'm from Dubai 🇦🇪 and Mumbai 🇮🇳! I use HTML, JS, CSS, Python, and SQL. I'm fairly decent in C, C++, and Java as well. I'm an advocate for many causes and consistently work in Tech For Good projects.
+I'm Akshit Anchan, a third-year university student, studying towards my Bachelor of Technology in Computer Science Engineering. I'm from Dubai 🇦🇪 and Mumbai 🇮🇳! I use HTML, JS, CSS, Python, and SQL. I'm fairly decent in C, C++, and Java as well. I'm an advocate for many causes and consistently work in Tech For Good projects.
 
 ### What I'm Up To
 
