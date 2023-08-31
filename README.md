@@ -1,16 +1,16 @@
-### Hey everyone! 👋🏼
+### Hey everyone!&nbsp;👋🏼
 
 <a href="https://akshit.org"><img align="right" src="assets/akshit-octocat.png" width=200></a>
 
-I'm Akshit Anchan, a third-year university student studying towards my Bachelor of Technology in Computer Science Engineering. I'm from Dubai 🇦🇪 and Mumbai 🇮🇳! I'm an advocate for many causes and consistently work on Tech For Good projects.
+I'm Akshit Anchan, a third-year university student studying towards my Bachelor of Technology in Computer Science Engineering.
 
-### What I'm Up To
+### What I'm up to
 
-Currently, I am Co-Founder at a social tech startup, [Beiyouth](https://beiyouth.com), Head of Tech at a youth initiative, [Access for Everyone](https://a4e.org.in), and [freelance](https://akshitanchan.com) in full stack development. I also assume similar roles at my uni's Google Developer Student Club and Girl Up chapters. I've previously held senior tech roles at [Locate Victims Beirut](https://locatevictimsbeirut.org) and [Sakshi](https://sakshi.org.in).
+Currently, I am Co-Founder at a social tech startup, [Cogny](https://cognysolutions.com), Head of Tech at a youth initiative, [Access for Everyone](https://a4e.org.in), and [freelance](https://akshitanchan.com) in full stack development. I've also assumed similar technical lead roles at my uni's Google Developer Student Club and Girl Up chapters. I've previously held senior tech roles at [Locate Victims Beirut](https://locatevictimsbeirut.org) and [Sakshi](https://sakshi.org.in).
 
-I have designed/developed web platforms for social causes, companies, and organizations from all over. I'm a Creative Developer, a more recent role in tech that looks to blur the lines between a coder and a designer, using coding languages to create accessible, beautiful, and interactive web interfaces, sites, and applications. In my free time, I [write](https://akshitanchan.com/blog) (curating the best of what I've seen, read or noticed), [develop](https://akshitanchan.com) and love tinkering with Data Science and ML algorithms.
+I have designed and developed web platforms for social causes, companies, and organizations from all over. In my free time, I love tinkering with Data Science and ML algorithms. In every endeavor, I strive to blend creativity with technological prowess, crafting user-centric solutions. Whether it's championing a new initiative or diving deep into code, my passion lies in turning complex challenges into seamless digital experiences.
 
-### Find me around the web 🌎:
+### Find me around the Web&nbsp;🌎
 
 - I'm on [Instagram](https://www.instagram.com/akshitanchan) and [Twitter](https://www.twitter.com/akshitanchan) 📱
 - You'll find me streaming Midnights on [Spotify](https://open.spotify.com/user/nqavr44zjkwlk54h88kn25ed9) 🎶
