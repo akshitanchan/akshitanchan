@@ -6,7 +6,7 @@ I'm Akshit Anchan, a third-year university student studying towards my Bachelor 
 
 ### What I'm up to
 
-Currently, I am Co-Founder at a social tech startup, [Cogny](https://cognysolutions.com), Head of Tech at a youth initiative, [Access for Everyone](https://a4e.org.in), and [freelance](https://akshitanchan.com) in full stack development. I've also assumed similar technical lead roles at my uni's Google Developer Student Club and Girl Up chapters. I've previously held senior tech roles at [Locate Victims Beirut](https://locatevictimsbeirut.org) and [Sakshi](https://sakshi.org.in).
+Currently, I am Co-Founder at a healthtech startup, [Cogny Solutions](https://cognysolutions.com), Head of Tech at a youth initiative, [Access for Everyone](https://a4e.org.in), and [freelance](https://akshitanchan.com) in full stack development. I've also assumed similar technical lead roles at my uni's Google Developer Student Club and Girl Up chapters. I've previously held senior tech roles at [Locate Victims Beirut](https://locatevictimsbeirut.org) and [Sakshi](https://sakshi.org.in).
 
 I have designed and developed web platforms for social causes, companies, and organizations from all over. In my free time, I love tinkering with Data Science and ML algorithms. In every endeavor, I strive to blend creativity with technological prowess, crafting user-centric solutions. Whether it's championing a new initiative or diving deep into code, my passion lies in turning complex challenges into seamless digital experiences.
 
