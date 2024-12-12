@@ -1,17 +1,17 @@
-### Hey everyone 👋🏼
+### hey everyone 👋🏼
 
 <a href="https://akshit.org"><img align="right" src="assets/akshit-octocat.png" width=200></a>
 
-I'm Akshit Anchan, a third-year university student studying towards my Bachelor of Technology in Computer Science Engineering.
+i'm akshit anchan, a final-year student studying towards my bachelor of technology in computer science and engineering.
 
-### What I'm up to
+### what i'm up to rn
 
-Currently, I am Co-Founder at a health-tech startup, [Cogny Solutions](https://cognysolutions.com), Head of Tech at a youth initiative, [Access for Everyone](https://a4e.org.in), and [freelance](https://akshitanchan.com) in full stack development. I've also assumed similar technical lead roles at my uni's Google Developer Student Club and Girl Up chapters. I've previously held senior tech roles at [Locate Victims Beirut](https://locatevictimsbeirut.org) and [Sakshi](https://sakshi.org.in).
+currently, i am co-founder at a health-tech startup, [cogny solutions](https://cognysolutions.com), head of tech at a youth initiative, [access for everyone](https://a4e.org.in), and [freelance](https://akshitanchan.com) in full stack development. i've also assumed similar technical lead roles at my uni's google developer student club and girl up chapters. i've previously held senior tech roles at [locate victims beirut](https://locatevictimsbeirut.org) and [sakshi](https://sakshi.org.in).
 
-I have designed and developed web platforms for social causes, companies, and organizations from all over. In my free time, I love tinkering with Data Science and ML algorithms. In every endeavour, I strive to blend creativity with technological prowess, crafting user-centric solutions. Whether it's championing a new initiative or diving deep into code, my passion lies in turning complex challenges into seamless digital experiences.
+i have designed and developed web platforms for social causes, companies, and organizations from all over. in my free time, i love tinkering with bioinformatics, data science and ml algorithms. in every endeavour, i strive to blend creativity with technological prowess, crafting user-centric solutions. whether it's championing a new initiative or diving deep into code, my passion lies in turning complex challenges into seamless digital results.
 
-### Find me around the Web 🌎
+### find me around the web 🌎
 
-- I'm on [Instagram](https://www.instagram.com/akshitanchan) and [Twitter](https://www.twitter.com/akshitanchan) 📱
-- Reach me by e-mail at [hello[at]akshitanchan[dot]com](mailto:hello@akshitanchan.com)! 📧
-- Network with me right here and on [LinkedIn](https://www.linkedin.com/in/akshitanchan) 🤝🏼
+- i'm on [instagram](https://www.instagram.com/akshitanchan) and [twitter](https://www.twitter.com/akshitanchan) 📱
+- reach me by e-mail at [hello[at]akshitanchan[dot]com](mailto:hello@akshitanchan.com)! 📧
+- network with me right here and on [linkedin](https://www.linkedin.com/in/akshitanchan) 🤝🏼
