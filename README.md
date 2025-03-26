@@ -2,7 +2,7 @@
 
 <a href="https://akshit.org"><img align="right" src="assets/akshit-octocat.png" width=200></a>
 
-i'm akshit anchan, a final-year student studying towards my bachelor of technology in computer science and engineering.
+i'm akshit, a software engineer.
 
 ### what i'm up to rn
 
