@@ -1,8 +1,8 @@
-### hey :)
+### hey, i'm akshit
 
 <a href="https://akshit.org"><img align="right" src="assets/akshit-octocat.png" width=200></a>
 
-i'm akshit. most recently, i had co-founded a health-tech startup, [cogny solutions](https://cognysolutions.com) and worked with [access for everyone](https://a4e.org.in). before that, i held tech roles at [lvb](https://locatevictimsbeirut.org) and [sakshi](https://sakshi.org.in). i’ve built web platforms for nonprofits, startups, and community orgs. outside of work, i tinker with data and ml. i like building practical, user-first products and i’m usually turning messy requirements into something clean that actually ships.
+most recently, i had co-founded a health-tech startup, [cogny solutions](https://cognysolutions.com) and worked with [access for everyone](https://a4e.org.in). before that, i held tech roles at [lvb](https://locatevictimsbeirut.org) and [sakshi](https://sakshi.org.in). i’ve built web platforms for nonprofits, startups, and community orgs. outside of work, i tinker with data and ml. i like building practical, user-first products and i’m usually turning messy requirements into something clean that actually ships.
 
 - connect on [linkedin](https://www.linkedin.com/in/akshitanchan)
 - mail @ [hello[at]akshitanchan[dot]com](mailto:hello@akshitanchan.com)!
